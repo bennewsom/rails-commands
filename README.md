@@ -1,4 +1,4 @@
-# Rails Commands
+# Rails Commands - Ben
 
 A collection of useful Ruby on Rails CLI commands for those learning and new to Ruby on Rails.
 
